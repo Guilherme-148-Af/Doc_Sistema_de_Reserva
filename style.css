@@ -100,3 +100,12 @@ img {
     max-width: 100%;
   }
 }
+
+/* Tamanhos específicos para imagens grandes */
+.img-er {
+  max-width: 75%;
+}
+
+.img-fluxograma {
+  max-width: 75%;
+}
