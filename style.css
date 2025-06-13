@@ -109,3 +109,23 @@ img {
 .img-fluxograma {
   max-width: 75%;
 }
+
+/* Ajuste para Levantamento de Requisitos */
+.img-requisitos {
+  max-width: 70%;
+}
+
+/* Ajuste para Análise Funcional */
+.img-analise {
+  max-width: 70%;
+}
+
+/* Ajuste para Modelagem de Casos de Uso */
+.img-casos {
+  max-width: 70%;
+}
+
+/* Ajuste para Validação e Verificação */
+.img-validacao {
+  max-width: 70%;
+}
